@@ -36,9 +36,9 @@
 //              - Olivier Girard,    olgirard@gmail.com
 //
 //----------------------------------------------------------------------------
-// $Rev$
-// $LastChangedBy$
-// $LastChangedDate$
+// $Rev: 202 $
+// $LastChangedBy: olivier.girard $
+// $LastChangedDate: 2015-07-01 23:13:32 +0200 (Wed, 01 Jul 2015) $
 //----------------------------------------------------------------------------
 `ifdef OMSP_NO_INCLUDE
 `else
